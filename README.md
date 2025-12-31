@@ -216,8 +216,3 @@ pyinstaller --onefile --windowed WarehouseManageSystem.spec
 - 实现基础功能：产品管理、库存管理、出入库管理
 - 支持MySQL和PostgreSQL数据库
 - 提供可执行文件
-
-
-## 许可证
-
-[MIT License](LICENSE)
