@@ -1,0 +1,3 @@
+2025-12-31 17:27:54 - dao.db_connection - INFO - 数据库连接成功: localhost:3306/warehouse_manage
+2025-12-31 17:27:54 - dao.db_connection - INFO - 数据库连接测试成功
+2025-12-31 17:27:54 - dao.db_connection - INFO - 数据库连接已关闭
